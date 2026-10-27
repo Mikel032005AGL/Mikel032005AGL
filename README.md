@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Mikel Guzmán 👋
 
-<!--
-**Mikel032005AGL/Mikel032005AGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por el código y la creación de soluciones tecnológicas. 
 
-Here are some ideas to get you started:
+### 👨‍💻 Acerca de mí
+* 🌱 Actualmente estoy aprendiendo y profundizando en **microservicios**.
+* 💬 Pregúntame sobre **Java, Node.js o desarrollo en general**.
+* 📫 Cómo contactarme: **[mguzman6431@uta.edu.ec].**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que manejo
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikel032005AGL&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikel032005AGL&layout=compact&theme=radium" alt="Top Languages" />
+</p> 
+
+
