@@ -1,61 +1,46 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Mikel+Guzman+👋;Estudiante+de+Desarrollo+de+Software;Apasionado+por+la+Tecnología" alt="Typing SVG" />
+  <!-- Banner dinámico animado generado por código -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Mikel%20Guzman&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Estudiante%20de%20Desarrollo%20de%20Software&descAlignY=75&descAlign=50" alt="Banner" width="100%" />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mikel032005AGL&label=Vistas%20del%20perfil&color=0E75B6&style=flat" alt="Vistas del perfil" />
+  </p>
+</div>
+
+### 👨‍💻 Sobre Mí
+
+- 🎓 **Estudiante de Desarrollo de Software** enfocado en crear soluciones lógicas y eficientes.
+- 📍 Basado en **Ambato, Ecuador 🇪🇨**
+- 🌱 Actualmente profundizando en **Arquitecturas de Software, Patrones de Diseño y Algoritmos**.
+- 🚀 Interesado en el **Desarrollo Backend, automatización y bases de datos**.
+- 🤝 Buscando oportunidades para colaborar en proyectos **Open Source**.
+- 📬 Contáctame en: **mguzman6431@uta.edu.ec**
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+  <!-- Iconos modernos unificados -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,git,github,windows&perline=9" alt="Mis Tecnologías" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mikel032005AGL&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Vistas del perfil" />
-</p>
-
-<p align="center">
-  📍 Ambato, Ecuador 🇪🇨 | 💻 Transformando café en código
-</p>
-
 ---
 
-### 🚀 Sobre mi perfil
-Soy un estudiante enfocado en la lógica de programación y la creación de soluciones eficientes. Me gusta entender cómo funcionan las cosas por debajo, estructurar buenas bases de datos y escribir código limpio. 
-
-- 🎓 **Estudiando:** Arquitecturas de software, Patrones de diseño y Algoritmos.
-- 💡 **Intereses:** Desarrollo Backend, automatización y análisis de datos.
-- 🤝 **Buscando:** Oportunidades para colaborar en proyectos Open Source y ganar experiencia real.
-- 📬 **Contacto:** [tu-email@correo.com](mailto:tu-email@correo.com)
-
----
-
-### 💻 Arsenal Tecnológico
-
-**Backend & Lenguajes Core**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-**Frontend & Diseño**  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Herramientas & Entorno**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
----
-
-### 📈 Rendimiento en GitHub
+### 📊 Rendimiento en GitHub
 
 <div align="center">
   <a href="https://github.com/Mikel032005AGL">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mikel032005AGL&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mikel032005AGL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Mikel032005AGL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikel032005AGL&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikel032005AGL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
   </a>
+</div>
+
+<div align="center">
+  <!-- Ola invertida para cerrar el perfil -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" alt="Footer" width="100%" />
 </div>
